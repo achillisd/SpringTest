@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "SpringTest",
+    "packageName": "com.selectionarts",
+    "packageFolder": "com/selectionarts",
+    "serverPort": 9999,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "YzMyM2M5YmE5NTc1YWU3MWE3YjNhY2ZkYzYwM2ExYThhMmJkMjQwOWU3ODk3ZTU1MWEzZjZiN2VjODhiNWQwMzc5NWQzYWFhODcyMWExZmVmZTZiM2EwOTY2NWUxZDNhMmEwZDFjZDNiMmNlOWZkNzM0NDI1NzlhYWY1YjBiMmU=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": [],
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "achillisd",
+  "repository-name": "SpringTest"
+}
